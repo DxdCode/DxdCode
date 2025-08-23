@@ -1,24 +1,27 @@
-<h1 align="center">
-  Hola, soy  <br>
-  <img src="https://img.shields.io/badge/Stalin_David-1DA1F2?style=for-the-badge&logoColor=white"/>
-</h1>
+<h1 align="center">Hola 👋, soy Stalin David</h1>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=DxdCode&label=Vistas%20del%20perfil&color=0e75b6&style=flat" alt="Stalin David" />
+</div>
 
 
   
 <div align="center">
-  <img alt="Hola" height="70px" width="70px" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"><br>
-</div>
-<div align="center">
   <a href="https://www.linkedin.com/in/stalin-muela-28a9a0340/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
+<div align="center">
+  <img alt="Hola" height="70px" width="70px" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"><br>
+</div>
 
-Hola, soy **David**, desarrollador web fullstack en formación.  
-Me gusta crear aplicaciones web modernas, seguras y eficientes, usando **React, Node.js y MongoDB**.  
 
-💡 Me interesa aprender más sobre: **Web3, Microservicios, React avanzado y pruebas de software**.  
-✍️ En mi tiempo libre, practico **proyectos personales y documentación de software**.  
+### 👨‍💻 Sobre mí
 
----
+
+<p>
+  Me desarrollo como <strong>Desarrollador Full Stack</strong>, creando soluciones web modernas y eficientes, combinando mi aprendizaje y experiencia en <strong>frontend</strong> y <strong>backend</strong>.<br>
+  Soy una persona <strong>proactiva</strong>, adaptable a diferentes entornos y que disfruta trabajar en equipo, lo que me permite integrarme rápidamente, aprender nuevas tecnologías y crecer profesionalmente.<br>
+  Mi objetivo es asumir mayores responsabilidades y enfrentar desafíos que impulsen mi desarrollo como profesional.
+</p>
+
 
 ### 🛠 Tecnologías y Herramientas
 
@@ -69,18 +72,11 @@ Me gusta crear aplicaciones web modernas, seguras y eficientes, usando **React, 
 - **Gestor de Matrículas** – Aplicación web para gestionar estudiantes, materias y matrículas  
   🌐 [Ver demo en Netlify](https://gestormatriculas.netlify.app/)  
 
-💻 Tecnologías usadas: React, Tailwind CSS, Node.js, Express, MongoDB, JWT.  
 
 
 ---
-
-### ⚡ GitHub Analytics
-
+<h3 align="center">📊 Mis estadísticas:</h3>
 <p align="center">
-  <a href="https://github.com/davidtuusuario">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=davidtuusuario&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/davidtuusuario">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=davidtuusuario&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DxdCode&layout=compact&langs_count=8&theme=dark&hide_border=true" />
 </p>
+
