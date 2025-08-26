@@ -17,9 +17,9 @@
 
 
 <p>
-  Me desarrollo como <strong>Desarrollador Full Stack</strong>, creando soluciones web modernas y eficientes, combinando mi aprendizaje y experiencia en <strong>frontend</strong> y <strong>backend</strong>.<br>
-  Soy una persona <strong>proactiva</strong>, adaptable a diferentes entornos y que disfruta trabajar en equipo, lo que me permite integrarme rápidamente, aprender nuevas tecnologías y crecer profesionalmente.<br>
-  Mi objetivo es asumir mayores responsabilidades y enfrentar desafíos que impulsen mi desarrollo como profesional.
+Me desarrollo en el área de <strong>Desarrollo de Software</strong>, creando soluciones modernas y eficientes que integran tanto <strong>frontend</strong> como <strong>backend</strong>.
+Soy una persona <strong>proactiva</strong>, adaptable a diferentes entornos y con facilidad para trabajar en equipo, lo que me permite integrarme rápidamente, aprender nuevas tecnologías y crecer profesionalmente.
+Mi objetivo es asumir mayores responsabilidades y enfrentar desafíos que potencien mi crecimiento en el ámbito del desarrollo de software.
 </p>
 
 
