@@ -10,7 +10,7 @@
 <a href="https://dxdcode.pages.dev/">
   <img src="https://img.shields.io/badge/-🌐%20Web%20Personal-000000?style=for-the-badge"/>
 </a>
-  <a href="https://www.linkedin.com/in/stalin-muela-28a9a0340/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/itsdavidd/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/DxdCode"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
